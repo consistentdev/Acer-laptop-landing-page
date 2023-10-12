@@ -8,19 +8,19 @@ export default function Footer() {
       <Container>
         <div className="content">
           <div className="social-icons">
-            <a href="#">
+            <a target="_blank" href="https://youtube.com/">
               <i class="fab fa-youtube"></i>
             </a>
-            <a href="#">
+            <a target="_blank" href="https://twitter.com/">
               <i class="fab fa-twitter"></i>
             </a>
-            <a href="#">
+            <a target="_blank" href="https://vk.com/">
               <i class="fab fa-vk"></i>
             </a>
-            <a href="#">
+            <a target="_blank" href="https://www.instagram.com/">
               <i class="fab fa-instagram"></i>
             </a>
-            <a href="#">
+            <a target="_blank" href="https://www.facebook.com/">
               <i class="fab fa-facebook"></i>
             </a>
           </div>
